@@ -1,0 +1,25 @@
+{
+  "name": "Discovery-BugerEats",
+  "version": "1.0.0",
+  "description": "Projeto e2e em Cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raqueldutra/Discovery-BugerEats.git"
+  },
+  "keywords": [],
+  "author": "Raquel Dutra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raqueldutra/Discovery-BugerEats/issues"
+  },
+  "homepage": "https://github.com/Raqueldutra/Discovery-BugerEats#readme"
+}

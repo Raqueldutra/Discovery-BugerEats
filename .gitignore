@@ -1,0 +1,31 @@
+### CypressIO ###
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+cypress/deprecated/*
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Dotenv environment variables file
+.env
+.env.*
+!.env.sample
+
+# Editor related
+.vscode/
+.idea/
+
+# report
+/mochawesome-report/*
